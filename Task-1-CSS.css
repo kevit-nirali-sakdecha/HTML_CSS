@@ -1,0 +1,48 @@
+.sample{
+    justify-content: center;
+    border: 1px solid black;
+    width: 40%;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(110, 110, 110, 0.2), 0 6px 20px 0 rgba(97, 97, 97, 0.19);
+}
+img{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+p{
+    text-align: center;
+    color: rgb(146, 145, 145);
+}
+section h4,h2{
+    text-align: center;
+}
+section h4{
+    color: orangered;
+}
+td{
+    border: 1px black solid;
+    border-collapse: collapse;
+    background-color: rgba(255, 68, 0, 0.87);
+    width: 0.75%;
+    text-align: center;
+}
+td h4{
+    color: white;
+    margin: 10%;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-bottom-left-radius: 25px 20px;
+    border-bottom-right-radius: 25px 20px;
+    position: relative;
+}
+tr{
+    width: 100%;
+    border-bottom-left-radius: 25px 20px;
+    border-bottom-right-radius: 25px 20px;
+    border-collapse: collapse;
+    position: relative;
+}
